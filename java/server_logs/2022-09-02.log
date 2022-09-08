@@ -1,0 +1,5 @@
+2022-09-02T17:27:13.0619038: Ingredient: TestIngredient is deleted
+2022-09-02T17:30:53.9549052: Ingredient: TestIngredient is deleted
+2022-09-02T20:07:28.8228777: could not execute statement; SQL [n/a]; constraint [pk_users]; nested exception is org.hibernate.exception.ConstraintViolationException: could not execute statement
+2022-09-02T20:07:40.2478781: could not execute statement; SQL [n/a]; constraint [pk_users]; nested exception is org.hibernate.exception.ConstraintViolationException: could not execute statement
+2022-09-02T20:07:40.4758786: could not execute statement; SQL [n/a]; constraint [pk_users]; nested exception is org.hibernate.exception.ConstraintViolationException: could not execute statement

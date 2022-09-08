@@ -1,0 +1,15 @@
+@media (max-width: 500px){
+  .user-Welcome-Page{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}  
+  .Brand-Border{
+    grid-area: Brand-Img;
+    background-color: #1E1E1E;
+    height: 100px;
+    width: 450px;
+    border-radius: 25px;
+  }
+}

@@ -1,0 +1,6 @@
+.login-Button{
+    grid-area: login-Button;
+    height: 50px;
+    width: 200px;
+    border-radius: 20px;
+  }

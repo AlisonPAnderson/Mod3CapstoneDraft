@@ -1,0 +1,13 @@
+2022-08-31T21:57:10.7083616: could not execute statement; SQL [n/a]; nested exception is org.hibernate.exception.SQLGrammarException: could not execute statement
+2022-08-31T21:59:25.5323505: could not execute statement; SQL [n/a]; nested exception is org.hibernate.exception.SQLGrammarException: could not execute statement
+2022-08-31T22:04:40.1234324: could not execute statement; SQL [n/a]; constraint [user_id" of relation "users]; nested exception is org.hibernate.exception.ConstraintViolationException: could not execute statement
+2022-08-31T22:10:26.1456367: could not execute statement; SQL [n/a]; constraint [user_id" of relation "users]; nested exception is org.hibernate.exception.ConstraintViolationException: could not execute statement
+2022-08-31T22:10:26.1796342: could not execute statement; nested exception is org.hibernate.exception.GenericJDBCException: could not execute statement
+2022-08-31T22:31:54.3637194: could not execute statement; SQL [n/a]; constraint [user_id" of relation "users]; nested exception is org.hibernate.exception.ConstraintViolationException: could not execute statement
+2022-08-31T22:31:54.4037525: could not execute statement; nested exception is org.hibernate.exception.GenericJDBCException: could not execute statement
+2022-08-31T22:34:35.9117132: could not execute statement; SQL [n/a]; constraint [user_id" of relation "users]; nested exception is org.hibernate.exception.ConstraintViolationException: could not execute statement
+2022-08-31T22:34:35.9407445: could not execute statement; nested exception is org.hibernate.exception.GenericJDBCException: could not execute statement
+2022-08-31T23:43:52.3534798: could not execute statement; SQL [n/a]; nested exception is org.hibernate.exception.SQLGrammarException: could not execute statement
+2022-08-31T23:43:52.7554849: could not execute statement; SQL [n/a]; nested exception is org.hibernate.exception.SQLGrammarException: could not execute statement
+2022-08-31T23:45:16.6334957: could not execute statement; SQL [n/a]; nested exception is org.hibernate.exception.SQLGrammarException: could not execute statement
+2022-08-31T23:45:17.0194916: could not execute statement; SQL [n/a]; nested exception is org.hibernate.exception.SQLGrammarException: could not execute statement

@@ -1,0 +1,3 @@
+2022-09-01T15:40:26.1832782: could not execute statement; SQL [n/a]; nested exception is org.hibernate.exception.SQLGrammarException: could not execute statement
+2022-09-01T15:44:06.6559578: could not execute statement; SQL [n/a]; nested exception is org.hibernate.exception.SQLGrammarException: could not execute statement
+2022-09-01T20:50:53.4083552: could not execute statement; SQL [n/a]; constraint [pk_users]; nested exception is org.hibernate.exception.ConstraintViolationException: could not execute statement

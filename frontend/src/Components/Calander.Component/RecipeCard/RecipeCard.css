@@ -1,0 +1,18 @@
+@media (max-width: 500px){
+    .RecipeCard{
+        background-color: black;
+        border-radius: 20px;
+        min-width: 280px;
+        min-height: 100px;
+        text-align: left;
+        margin: 10px 10px 10px 10px;
+        padding-left: 15px;
+        padding-top: 2px;
+        padding-bottom: 5px;
+    }
+
+    .RecipeCard-text{
+        color: aliceblue;
+        
+    }
+}

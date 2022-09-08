@@ -1,0 +1,9 @@
+2022-09-04T16:42:21.8089046: could not execute statement; SQL [n/a]; constraint [ingredient_name" of relation "ingredient]; nested exception is org.hibernate.exception.ConstraintViolationException: could not execute statement
+2022-09-04T16:42:22.0329074: could not execute statement; SQL [n/a]; nested exception is org.hibernate.exception.SQLGrammarException: could not execute statement
+2022-09-04T16:42:22.3609104: could not execute statement; SQL [n/a]; nested exception is org.hibernate.exception.SQLGrammarException: could not execute statement
+2022-09-04T17:06:50.5949091: could not execute statement; SQL [n/a]; constraint [ingredient_name" of relation "ingredient]; nested exception is org.hibernate.exception.ConstraintViolationException: could not execute statement
+2022-09-04T17:06:50.8599036: could not execute statement; SQL [n/a]; nested exception is org.hibernate.exception.SQLGrammarException: could not execute statement
+2022-09-04T17:06:51.2149175: could not execute statement; SQL [n/a]; nested exception is org.hibernate.exception.SQLGrammarException: could not execute statement
+2022-09-04T17:19:22.1948043: could not execute statement; SQL [n/a]; constraint [ingredient_name" of relation "ingredient]; nested exception is org.hibernate.exception.ConstraintViolationException: could not execute statement
+2022-09-04T17:19:22.5088012: could not execute statement; SQL [n/a]; nested exception is org.hibernate.exception.SQLGrammarException: could not execute statement
+2022-09-04T17:19:22.9337846: could not execute statement; SQL [n/a]; nested exception is org.hibernate.exception.SQLGrammarException: could not execute statement

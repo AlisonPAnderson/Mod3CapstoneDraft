@@ -1,0 +1,13 @@
+/* css for pc */
+body{
+  background-color: #363636;
+  margin:0;
+}
+
+/* css for phone app */
+@media (max-width: 500px){
+  body{ /* defualt*/
+    background-color: #9747FF;
+    margin:0;
+  }
+}

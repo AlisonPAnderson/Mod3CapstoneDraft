@@ -1,0 +1,6 @@
+.text-input{
+    grid-area: login-Button;
+    height: 40px;
+    width: 300px;
+    border-radius: 20px;
+}

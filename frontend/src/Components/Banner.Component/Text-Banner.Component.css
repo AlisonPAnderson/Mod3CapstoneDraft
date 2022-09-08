@@ -1,0 +1,7 @@
+.text-banner{
+    grid-area: welcome-Descritpuon;
+    background-color: #E6E6E6;
+    border-radius: 20px;
+    padding: 50px;
+    width: 300px;
+  }
