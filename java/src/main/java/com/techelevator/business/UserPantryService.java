@@ -3,9 +3,7 @@ package com.techelevator.business;
 import com.techelevator.exceptions.IngredientNotFoundException;
 import com.techelevator.model.Ingredient;
 import com.techelevator.model.User;
-import com.techelevator.model.UserPantry;
 import com.techelevator.repository.IngredientRepository;
-import com.techelevator.repository.UserPantryRepository;
 import com.techelevator.util.BasicLogger;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
@@ -21,15 +19,9 @@ public class UserPantryService {
 
     @Autowired
     IngredientRepository ingredientRepository;
-    @Autowired
-    UserPantryRepository userPantryRepository;
 
-    public UserPantry create(Long userId) {
-        UserPantry userPantry = new UserPantry();
-        userPantry.setUserId(userId);
-        userPantryRepository.saveAndFlush(userPantry);
-        return userPantry;
-    }
+
+
 
     public Map<Long, Ingredient> addIngredientToUserPantry(Long userId, Long ingredientId) {
         Map<Long, Ingredient> userPantryStock = new HashMap<>();

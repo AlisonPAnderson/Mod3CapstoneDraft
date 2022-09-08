@@ -22,9 +22,6 @@ public class IngredientService {
     private RecipeRepository recipeRepository;
     @Autowired
     private RecipeService recipeService;
-    @Autowired
-    UserPantryRepository userPantryRepository;
-
 
     public Ingredient createIngredient(String name, String category) {
         Ingredient ingredient = new Ingredient();
